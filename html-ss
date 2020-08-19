@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+	<title> </title>
+
+</head>
+<body>
+
+		 <!-- <h1> Olá mundo </h1>
+		<button> esconder olá mundo </button>-->
+
+		<img id="i1" src="Imagens/imagem1.jpg">
+		<img id="i2" src="Imagens/imagem2.jpg">
+		<img id="i3" src="Imagens/imagem3.jpg">
+		<img id="i4" src="Imagens/imagem4.jpg">
+
+		<br>
+
+		<a href="#" id="l1">1</a>
+		<a href="#" id="l2">2</a>
+		<a href="#" id="l3">3</a>
+		<a href="#" id="l4">4</a>
+
+	<footer> 
+
+		<script src="jquery.js"></script>
+		<script src="script-jquery.js"></script>
+
+	</footer>
+
+</body>
+
+</html>
